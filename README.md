@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IM-21мп</code>
+<code>🎓 Igor Sikorsky Kyiv Polytechnic Institute, Master Degree, Software Engineering</code>
 <code>👷 Speciality: Software engineer / Back-End Developer / iOS Developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
