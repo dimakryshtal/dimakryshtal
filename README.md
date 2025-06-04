@@ -1,5 +1,5 @@
 <code>🎓 Igor Sikorsky Kyiv Polytechnic Institute, Master Degree, Software Engineering</code>
-<code>👷 Speciality: Software engineer / Back-End Developer / iOS Developer</code><br>
+<code>👷 Speciality: Software engineer / NodeJS/Go Back-End Developer </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, Swift </code>
